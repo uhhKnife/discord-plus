@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Science Gothic';
-  --dplus-font-body: 'Century Gothic';
-  --dplus-font-header: 'Century Gothic';
+  --dplus-font-ui: 'Century Gothic';
+  --dplus-font-body: 'Science Gothic';
+  --dplus-font-header: 'Science Gothic';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
