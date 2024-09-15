@@ -60,7 +60,7 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
+  --dplus-font-ui: 'Century Gothic';
   --dplus-font-body: 'Century Gothic';
   --dplus-font-header: 'Century Gothic';
 
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://svgshare.com/i/uah.svg;
---dplus-icon-home-light: url(https://svgshare.com/i/uah.svg);
+/*--dplus-icon-home-dark: url(https://svgshare.com/i/uah.svg;
+--dplus-icon-home-light: url(https://svgshare.com/i/uah.svg);*/
 }
