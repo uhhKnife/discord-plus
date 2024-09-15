@@ -61,8 +61,8 @@
 /* Fonts */
 /* You can use any installed font on your device. */
   --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-body: 'Science Gothic';
+  --dplus-font-header: 'Century Gothic';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
